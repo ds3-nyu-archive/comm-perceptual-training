@@ -18,3 +18,15 @@ The online or app versions will need to be able to play sound files randomly sel
 Information can be hosted in the Cloud but we prefer to store things locally for IRB and moral issues.
 - Sound files.
 - User information (register, or should they OAuth with their google account / facebook account?)
+
+
+## Project repositories
+
+- [Project UI][perceptual-training-ui]: the front-end interface
+- [Project Server][perceptual-training-server]: the back-end server
+- [Project database][perceptual-training-database]: the database tables specification
+
+
+[perceptual-training-ui]: https://github.com/ds3-nyu/comm-perceptual-training-ui
+[perceptual-training-server]: https://github.com/ds3-nyu/comm-perceptual-training-server
+[perceptual-training-database]: https://github.com/ds3-nyu/comm-perceptual-training-db
