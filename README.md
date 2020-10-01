@@ -23,10 +23,10 @@ Information can be hosted in the Cloud but we prefer to store things locally for
 ## Project repositories
 
 - [Project UI][perceptual-training-ui]: the front-end interface
-- [Project Server][perceptual-training-server]: the back-end server
-- [Project database][perceptual-training-database]: the database tables specification
+- [Project Server][perceptual-training-api]: the back-end server
+- [Project database][perceptual-training-db]: the database tables specification
 
 
-[perceptual-training-ui]: https://github.com/ds3-nyu/comm-perceptual-training-ui
-[perceptual-training-server]: https://github.com/ds3-nyu/comm-perceptual-training-server
-[perceptual-training-database]: https://github.com/ds3-nyu/comm-perceptual-training-db
+[perceptual-training-api]: https://github.com/ds3-nyu-archive/comm-perceptual-training-api
+[perceptual-training-db]: https://github.com/ds3-nyu-archive/comm-perceptual-training-db
+[perceptual-training-ui]: https://github.com/ds3-nyu-archive/comm-perceptual-training-ui
